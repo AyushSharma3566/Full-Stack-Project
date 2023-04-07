@@ -1,0 +1,97 @@
+nav {
+    background-color: #000000;
+    color: #fff;
+    padding: 15px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 25px;
+    font-size: larger;
+    
+  }
+  
+  nav a {
+    color: #ffffff;
+    text-decoration:none;
+    margin-right: 15px;
+    
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  nav img {
+     height:65px;
+     width:100px;
+     text-align: justify;
+     margin-bottom: -2%;
+     margin-top: -1%;
+  }
+  nav li img{
+   height:30px ;
+   width: 30px;
+   margin-bottom: -2px;
+  }
+  div{
+    margin-top: 5px;
+    margin-left:1px;
+    
+  }
+  .Search{
+    background-image: url(backgroundimg.jpg);
+    height:550px;
+    width:1445px;
+    background-size:cover;
+  }
+  .Search h1{
+    margin: 15px;
+    margin-top: 20px;
+     text-align: center;
+     font-size: 70px;
+     color: crimson;
+  }
+  div form{
+    text-align: center;
+  }
+  form h2{
+    
+  }
+  form input{
+    margin-top: 25px;
+    height:50px;
+    width:500px;
+    font-size: larger;
+  }
+  form button{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    height:57px;
+    width:57px;
+  }
+  figure img{
+  float:center;
+  height:300px;
+  width:600px;
+  }
+  figcaption{
+    font-size: 25px;
+    margin-top: 1%;
+    color:#000000;
+  }
+  
+
+  footer {
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    
+  }
+  
